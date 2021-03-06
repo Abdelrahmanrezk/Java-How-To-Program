@@ -8,7 +8,9 @@ public class Dialog1
 	{
 		/*
 			Instead of using terminal to represent result we use GUI to represent your message in.
-			Java provide swing library with its JOptionPane class to help us represent this GUI
+			Java provide swing library with its JOptionPane class to help us represent this GUI.
+			Dialog box is just like the Gmail you use to write your e-mail and send to some one,
+			also its looks like the window of Firefox and other programs.
 		*/
 		// Display a dialog with message
 		JOptionPane.showMessageDialog(null, "Welcome To Java GUI");
