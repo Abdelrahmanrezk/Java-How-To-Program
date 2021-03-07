@@ -36,4 +36,4 @@ After the introudction about the java, Hardware and Software beside of Moores La
 - Interfaces
 - Object Oriendt Analysis & Design with UML
 
-<img src="chapter_1/UML/info_hiding.png" width="300" height="300">
+<img src="chapter_1/UML/info_hiding.png" >
