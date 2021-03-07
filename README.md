@@ -37,3 +37,44 @@ After the introudction about the java, Hardware and Software beside of Moores La
 - Object Oriendt Analysis & Design with UML
 
 <img src="chapter_1/UML/info_hiding.png" >
+
+
+## Chapter 2
+
+ Introduction to Java Application Input, Output and Operators.
+
+ After what mentioned in chapter 1 the author moved to next stage of creating a simple app to explain each line from the app, from the input to some operation and finally displying the result on the screen.
+
+- Write Java app
+- Input & Output statements
+- Import Declaration
+- Scanner Object
+- Primitive data types
+- Basic Memory Concept
+- Arithmetic Operator
+- Precedence of different operations ( Who should apply first).
+- Decision Making
+- Relational & Equality operator
+
+
+<img src="chapter_2/chapter_2_addition_app.png">
+
+## Chapter 3
+
+We looked previously about how to take object from predefined class that java has and from this object we use the methods associated with this object, but what we doing here is to create our own class and use some objects from this class, then we can use the methods we will create inside.
+
+
+- Declaration of classes and method
+- Instance variables
+- setName Methods of class Account
+- Default Values of data types
+- Floating-point
+- Local and instance vraibles
+- Calling Object and methods of class
+- constructors
+- UML Graphs
+- Simple GUI
+
+<img src="chapter_3/UML/ch_3_after_enterinput.png">
+
+
