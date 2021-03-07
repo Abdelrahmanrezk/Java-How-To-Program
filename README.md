@@ -57,7 +57,7 @@ After the introudction about the java, Hardware and Software beside of Moores La
 - Relational & Equality operator
 
 
-<img src="chapter_2/chapter_2_addition_app.png">
+<img src="chapter_2/UML/chapter_2_addition_app.png">
 
 ## Chapter 3
 
