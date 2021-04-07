@@ -1,7 +1,6 @@
 public class Account{
 	/*
 		- Created By: Abdelrahman Rezk
-		- Last Updated: 27/10/2020
 		<<>> Define constructor in UML
 		- Define Private status
 		+ Define public status

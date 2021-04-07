@@ -78,3 +78,20 @@ We looked previously about how to take object from predefined class that java ha
 <img src="chapter_3/UML/ch_3_after_enterinput.png">
 
 
+## Chapter 4
+
+Before written a program to solve a problem, you should have a through understanding of the problem and carefully planned approach to solving it.
+
+
+- Algorithms
+- pseudocode
+- Control Structure
+	- Sequence Structure
+	- Selection structure
+	- Repetition Structure
+- UML Activity Diagram
+- Condition Operation
+
+
+<img src="chapter_4/UML/Program_sequence_selction_repeat.png">
+
